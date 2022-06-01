@@ -2001,7 +2001,7 @@ a:focus {
     background: transparent;
 }
 
-.contact .contact-form textarea {
+.contact .contact-form textarea{
     color: #ffffff;
     height: 185px;
     border-radius: 0;
