@@ -2010,6 +2010,15 @@ a:focus {
     background: transparent;
 }
 
+.contact .contact-form select{
+    color:black;
+    height: 40px;
+    border-radius: 0;
+    border-width: 1px;
+    border-color: rgba(256, 256, 256, .4);
+    background: transparent;
+}
+
 .contact .contact-form input:focus,
 .contact .contact-form textarea {
     box-shadow: none;
