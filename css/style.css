@@ -1993,7 +1993,7 @@ a:focus {
 }
 
 .contact .contact-form input {
-    color: #ffffff;
+    color: black;
     height: 40px;
     border-radius: 0;
     border-width: 1px;
@@ -2002,7 +2002,7 @@ a:focus {
 }
 
 .contact .contact-form textarea{
-    color: #ffffff;
+    color: black;
     height: 185px;
     border-radius: 0;
     border-width: 1px;
@@ -2025,16 +2025,16 @@ a:focus {
 }
 
 .contact .contact-form .form-control::placeholder {
-  color: #ffffff;
+  color:black;
   opacity: 1;
 }
 
 .contact .contact-form .form-control::-ms-input-placeholder {
-  color: #ffffff;
+  color:black;
 }
 
 .contact .contact-form .form-control::-ms-input-placeholder {
-  color: #ffffff;
+  color: black;
 }
 
 .contact .contact-form .btn {
