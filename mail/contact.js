@@ -10,6 +10,7 @@ $(function () {
             var email = $("input#email").val();
             var subject = $("input#subject").val();
             var message = $("textarea#message").val();
+            
 
             $this = $("#sendMessageButton");
             $this.prop("disabled", true);
@@ -22,6 +23,7 @@ $(function () {
                     email: email,
                     subject: subject,
                     message: message
+                   
                 },
                 cache: false,
                 success: function () {
